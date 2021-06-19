@@ -1,0 +1,23 @@
+git clone https://github.com/qaacademy/qaacademy_turma2.git
+
+rm .gitignore -> Remove o arquivo .gitignore
+
+clear -> limpa a tela
+
+
+git status
+git add arquivo.txt -> Adiciona o arquivo no pacote do commit. 
+
+
+git pull -f origin master
+
+git pull - > Atualiza todas as branches
+
+
+git pull origin master - > Atualiza somente a master
+
+git commit -m 'Mensagem de Commit' - > Realiza o commit e adiciona uma mensagem 
+
+
+git push origin master -> sobe para o servidor o as alterações "commitadas"
+
