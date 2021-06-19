@@ -30,3 +30,5 @@ passo a passo para commit:
 
 
 
+git checkout <nomeDoArquivo>   -> volta o arquivo para versão original
+
