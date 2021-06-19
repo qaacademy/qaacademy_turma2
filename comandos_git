@@ -21,3 +21,12 @@ git commit -m 'Mensagem de Commit' - > Realiza o commit e adiciona uma mensagem
 
 git push origin master -> sobe para o servidor o as alterações "commitadas"
 
+passo a passo para commit: 
+
+1- git status
+2- git add arquivos.txt ou add .    -> Se tiver 100% de certeza que todos os arquivos que foram alterados são seus. 
+3- git commit -m 'Mensagem'
+4- git push origin master
+
+
+
